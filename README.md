@@ -13,7 +13,7 @@
 - prefab交互直接拖拽即可
 - 自动精确定位六边形坐标
 - 自动按组合并同类prefab
-- 支持 `碰撞` 替换和 `重创建` 两种工作模式
+- 支持 `替换` 和 `重创建` 两种工作模式
 - prefab的增删切换都可以用键鼠快捷键完成，美术友好
 
 其中， `替换` 模式是指unity2022.2更新的PrefabSystem功能，详情见 [What’s new for Prefabs in 2022.2? | Unity Blog](https://blog.unity.com/engine-platform/prefabs-whats-new-2022-2)， `重创建` 模式就是单纯的删除原本物体并创建新物体
