@@ -4,8 +4,7 @@
 
 ![565c8e536a6510926d66a58ca0812c7c.gif](https://pic.matrix64.xyz:7001/images/565c8e536a6510926d66a58ca0812c7c.gif)
 
-[![6e07cd0f57cf8cc7df998d3147b4d5e1.th.png](https://pic.matrix64.xyz:7001/images/6e07cd0f57cf8cc7df998d3147b4d5e1.th.png)](https://pic.matrix64.xyz:7001/image/B7A)
-
+[![6e07cd0f57cf8cc7df998d3147b4d5e1.md.png](https://pic.matrix64.xyz:7001/images/6e07cd0f57cf8cc7df998d3147b4d5e1.md.png)](https://pic.matrix64.xyz:7001/image/B7A)
 
 
 ## Features
