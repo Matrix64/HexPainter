@@ -1,0 +1,11 @@
+{
+  "name": "matrix64works.hexpainter.Editor",
+  "references": [
+    "hexpainter.Editor"
+  ],
+  "optionalUnityReferences": [],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}
