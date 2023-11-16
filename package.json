@@ -4,9 +4,7 @@
     "displayName": "Hex Painter",
     "description": "A hex tile paint tool for Unity",
     "unity": "2022.3",
-    "documentationUrl": "https://example.com/",
-    "changelogUrl": "https://example.com/changelog.html",
-    "licensesUrl": "https://example.com/licensing.html",
+    "documentationUrl": "https://github.com/Matrix64/HexPainter/blob/main/README.md",
    "keywords": [
       "Hex",
       "Tile",
